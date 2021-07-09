@@ -1,0 +1,776 @@
+{
+  "Hexadecimal": [
+
+    {
+      "hexValue": "1"
+    },
+    {
+      "hexValue": "2"
+    },
+    {
+      "hexValue": "3"
+    },
+    {
+      "hexValue": "4"
+    },
+    {
+      "hexValue": "5"
+    },
+    {
+      "hexValue": "6"
+    },
+    {
+      "hexValue": "7"
+    },
+    {
+      "hexValue": "8"
+    },
+    {
+      "hexValue": "9"
+    },
+    {
+      "hexValue": "A"
+    },
+    {
+      "hexValue": "B"
+    },
+    {
+      "hexValue": "C"
+    },
+    {
+      "hexValue": "D"
+    },
+    {
+      "hexValue": "E"
+    },
+    {
+      "hexValue": "F"
+    },
+    {
+      "hexValue": "1"
+    },
+    {
+      "hexValue": "10"
+    },
+    {
+      "hexValue": "11"
+    },
+    {
+      "hexValue": "12"
+    },
+    {
+      "hexValue": "1"
+    },
+    {
+      "hexValue": "13"
+    },
+    {
+      "hexValue": "14"
+    },
+    {
+      "hexValue": "15"
+    },
+    {
+      "hexValue": "16"
+    },
+    {
+      "hexValue": "17"
+    },
+    {
+      "hexValue": "18"
+    },
+    {
+      "hexValue": "19"
+    },
+    {
+      "hexValue": "1A"
+    },
+    {
+      "hexValue": "1B"
+    },
+    {
+      "hexValue": "1C"
+    },
+    {
+      "hexValue": "1D"
+    },
+    {
+      "hexValue": "1E"
+    },
+    {
+      "hexValue": "1F"
+    },
+    {
+      "hexValue": "20"
+    },
+    {
+      "hexValue": "21"
+    },
+    {
+      "hexValue": "22"
+    },
+    {
+      "hexValue": "23"
+    },
+    {
+      "hexValue": "24"
+    },
+    {
+      "hexValue": "25"
+    },
+    {
+      "hexValue": "26"
+    },
+    {
+      "hexValue": "27"
+    },
+    {
+      "hexValue": "28"
+    },
+    {
+      "hexValue": "29"
+    },
+    {
+      "hexValue": "2A"
+    },
+    {
+      "hexValue": "2B"
+    },
+    {
+      "hexValue": "2C"
+    },
+    {
+      "hexValue": "2D"
+    },
+    {
+      "hexValue": "2E"
+    },
+    {
+      "hexValue": "2F"
+    },
+    {
+      "hexValue": "30"
+    },
+    {
+      "hexValue": "31"
+    },
+    {
+      "hexValue": "32"
+    },
+    {
+      "hexValue": "33"
+    },
+    {
+      "hexValue": "34"
+    },
+    {
+      "hexValue": "35"
+    },
+    {
+      "hexValue": "36"
+    },
+    {
+      "hexValue": "37"
+    },
+    {
+      "hexValue": "38"
+    },
+    {
+      "hexValue": "39"
+    },
+    {
+      "hexValue": "3A"
+    },
+    {
+      "hexValue": "3B"
+    },
+    {
+      "hexValue": "3C"
+    },
+    {
+      "hexValue": "3D"
+    },
+    {
+      "hexValue": "3E"
+    },
+    {
+      "hexValue": "3F"
+    },
+    {
+      "hexValue": "40"
+    },
+    {
+      "hexValue": "41"
+    },
+    {
+      "hexValue": "42"
+    },
+    {
+      "hexValue": "43"
+    },
+    {
+      "hexValue": "44"
+    },
+    {
+      "hexValue": "45"
+    },
+    {
+      "hexValue": "46"
+    },
+    {
+      "hexValue": "47"
+    },
+    {
+      "hexValue": "48"
+    },
+    {
+      "hexValue": "49"
+    },
+    {
+      "hexValue": "4A"
+    },
+    {
+      "hexValue": "4B"
+    },
+    {
+      "hexValue": "4C"
+    },
+    {
+      "hexValue": "4D"
+    },
+    {
+      "hexValue": "4E"
+    },
+    {
+      "hexValue": "4F"
+    },
+    {
+      "hexValue": "50"
+    },
+    {
+      "hexValue": "51"
+    },
+    {
+      "hexValue": "52"
+    },
+    {
+      "hexValue": "53"
+    },
+    {
+      "hexValue": "54"
+    },
+    {
+      "hexValue": "55"
+    },
+    {
+      "hexValue": "56"
+    },
+    {
+      "hexValue": "57"
+    },
+    {
+      "hexValue": "58"
+    },
+    {
+      "hexValue": "59"
+    },
+    {
+      "hexValue": "5A"
+    },
+    {
+      "hexValue": "5B"
+    },
+    {
+      "hexValue": "5C"
+    },
+    {
+      "hexValue": "5D"
+    },
+    {
+      "hexValue": "5E"
+    },
+    {
+      "hexValue": "5F"
+    },
+    {
+      "hexValue": "60"
+    },
+    {
+      "hexValue": "61"
+    },
+    {
+      "hexValue": "62"
+    },
+    {
+      "hexValue": "63"
+    },
+    {
+      "hexValue": "64"
+    },
+    {
+      "hexValue": "65"
+    },
+    {
+      "hexValue": "66"
+    },
+    {
+      "hexValue": "67"
+    },
+    {
+      "hexValue": "68"
+    },
+    {
+      "hexValue": "69"
+    },
+    {
+      "hexValue": "6A"
+    },
+    {
+      "hexValue": "6B"
+    },
+    {
+      "hexValue": "6C"
+    },
+    {
+      "hexValue": "6D"
+    },
+    {
+      "hexValue": "6E"
+    },
+    {
+      "hexValue": "6F"
+    },
+    {
+      "hexValue": "70"
+    },
+    {
+      "hexValue": "71"
+    },
+    {
+      "hexValue": "72"
+    },
+    {
+      "hexValue": "73"
+    },
+    {
+      "hexValue": "74"
+    },
+    {
+      "hexValue": "75"
+    },
+    {
+      "hexValue": "76"
+    },
+    {
+      "hexValue": "77"
+    },
+    {
+      "hexValue": "78"
+    },
+    {
+      "hexValue": "79"
+    },
+    {
+      "hexValue": "7A"
+    },
+    {
+      "hexValue": "7B"
+    },
+    {
+      "hexValue": "7C"
+    },
+    {
+      "hexValue": "7D"
+    },
+    {
+      "hexValue": "7E"
+    },
+    {
+      "hexValue": "7F"
+    },
+    {
+      "hexValue": "80"
+    },
+    {
+      "hexValue": "81"
+    },
+    {
+      "hexValue": "82"
+    },
+    {
+      "hexValue": "83"
+    },
+    {
+      "hexValue": "84"
+    },
+    {
+      "hexValue": "85"
+    },
+    {
+      "hexValue": "86"
+    },
+    {
+      "hexValue": "87"
+    },
+    {
+      "hexValue": "88"
+    },
+    {
+      "hexValue": "89"
+    },
+    {
+      "hexValue": "8A"
+    },
+    {
+      "hexValue": "8B"
+    },
+    {
+      "hexValue": "8C"
+    },
+    {
+      "hexValue": "8D"
+    },
+    {
+      "hexValue": "8E"
+    },
+    {
+      "hexValue": "8F"
+    },
+    {
+      "hexValue": "90"
+    },
+    {
+      "hexValue": "91"
+    },
+    {
+      "hexValue": "92"
+    },
+    {
+      "hexValue": "93"
+    },
+    {
+      "hexValue": "94"
+    },
+    {
+      "hexValue": "95"
+    },
+    {
+      "hexValue": "96"
+    },
+    {
+      "hexValue": "97"
+    },
+    {
+      "hexValue": "98"
+    },
+    {
+      "hexValue": "99"
+    },
+    {
+      "hexValue": "9A"
+    },
+    {
+      "hexValue": "9B"
+    },
+    {
+      "hexValue": "9C"
+    },
+    {
+      "hexValue": "9D"
+    },
+    {
+      "hexValue": "9E"
+    },
+    {
+      "hexValue": "9F"
+    },
+    {
+      "hexValue": "A0"
+    },
+    {
+      "hexValue": "A1"
+    },
+    {
+      "hexValue": "A2"
+    },
+    {
+      "hexValue": "A3"
+    },
+    {
+      "hexValue": "A4"
+    },
+    {
+      "hexValue": "A5"
+    },
+    {
+      "hexValue": "A6"
+    },
+    {
+      "hexValue": "A7"
+    },
+    {
+      "hexValue": "A8"
+    },
+    {
+      "hexValue": "A9"
+    },
+    {
+      "hexValue": "AA"
+    },
+    {
+      "hexValue": "AB"
+    },
+    {
+      "hexValue": "AC"
+    },
+    {
+      "hexValue": "AD"
+    },
+    {
+      "hexValue": "AE"
+    },
+    {
+      "hexValue": "AF"
+    },
+    {
+      "hexValue": "B0"
+    },
+    {
+      "hexValue": "B1"
+    },
+    {
+      "hexValue": "B2"
+    },
+    {
+      "hexValue": "B3"
+    },
+    {
+      "hexValue": "B4"
+    },
+    {
+      "hexValue": "B5"
+    },
+    {
+      "hexValue": "B6"
+    },
+    {
+      "hexValue": "B7"
+    },
+    {
+      "hexValue": "B8"
+    },
+    {
+      "hexValue": "B9"
+    },
+    {
+      "hexValue": "BA"
+    },
+    {
+      "hexValue": "BB"
+    },
+    {
+      "hexValue": "BC"
+    },
+    {
+      "hexValue": "BD"
+    },
+    {
+      "hexValue": "BE"
+    },
+    {
+      "hexValue": "BF"
+    },
+    {
+      "hexValue": "C0"
+    },
+    {
+      "hexValue": "C1"
+    },
+    {
+      "hexValue": "C2"
+    },
+    {
+      "hexValue": "C3"
+    },
+    {
+      "hexValue": "C4"
+    },
+    {
+      "hexValue": "C5"
+    },
+    {
+      "hexValue": "C6"
+    },
+    {
+      "hexValue": "C7"
+    },
+    {
+      "hexValue": "C8"
+    },
+    {
+      "hexValue": "C9"
+    },
+    {
+      "hexValue": "CA"
+    },
+    {
+      "hexValue": "CB"
+    },
+    {
+      "hexValue": "CC"
+    },
+    {
+      "hexValue": "CD"
+    },
+    {
+      "hexValue": "CE"
+    },
+    {
+      "hexValue": "CF"
+    },
+    {
+      "hexValue": "D0"
+    },
+    {
+      "hexValue": "D1"
+    },
+    {
+      "hexValue": "D2"
+    },
+    {
+      "hexValue": "D3"
+    },
+    {
+      "hexValue": "D4"
+    },
+    {
+      "hexValue": "D5"
+    },
+    {
+      "hexValue": "D6"
+    },
+    {
+      "hexValue": "D7"
+    },
+    {
+      "hexValue": "D8"
+    },
+    {
+      "hexValue": "D9"
+    },
+    {
+      "hexValue": "DA"
+    },
+    {
+      "hexValue": "DB"
+    },
+    {
+      "hexValue": "DC"
+    },
+    {
+      "hexValue": "DD"
+    },
+    {
+      "hexValue": "DE"
+    },
+    {
+      "hexValue": "DF"
+    },
+    {
+      "hexValue": "E0"
+    },
+    {
+      "hexValue": "E1"
+    },
+    {
+      "hexValue": "E2"
+    },
+    {
+      "hexValue": "E3"
+    },
+    {
+      "hexValue": "E4"
+    },
+    {
+      "hexValue": "E5"
+    },
+    {
+      "hexValue": "E6"
+    },
+    {
+      "hexValue": "E7"
+    },
+    {
+      "hexValue": "E8"
+    },
+    {
+      "hexValue": "E9"
+    },
+    {
+      "hexValue": "EA"
+    },
+    {
+      "hexValue": "EB"
+    },
+    {
+      "hexValue": "EC"
+    },
+    {
+      "hexValue": "ED"
+    },
+    {
+      "hexValue": "EE"
+    },
+    {
+      "hexValue": "EF"
+    },
+    {
+      "hexValue": "F0"
+    },
+    {
+      "hexValue": "F1"
+    },
+    {
+      "hexValue": "F2"
+    },
+    {
+      "hexValue": "F3"
+    },
+    {
+      "hexValue": "F4"
+    },
+    {
+      "hexValue": "F5"
+    },
+    {
+      "hexValue": "F6"
+    },
+    {
+      "hexValue": "F7"
+    },
+    {
+      "hexValue": "F8"
+    },
+    {
+      "hexValue": "F9"
+    },
+    {
+      "hexValue": "FA"
+    },
+    {
+      "hexValue": "FB"
+    },
+    {
+      "hexValue": "FC"
+    },
+    {
+      "hexValue": "FD"
+    },
+    {
+      "hexValue": "FE"
+    },
+    {
+      "hexValue": "FF"
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+	"DectohexClass": [
+
+		{
+			"decimalValue": "1",
+			"hexValue": "1"
+		},
+		{
+			"decimalValue": "2",
+			"hexValue": "2"
+		},
+		{
+			"decimalValue": "3",
+			"hexValue": "3"
+		},
+		{
+			"decimalValue": "4",
+			"hexValue": "4"
+		},
+		{
+			"decimalValue": "5",
+			"hexValue": "5"
+		},
+		{
+			"decimalValue": "6",
+			"hexValue": "6"
+		},
+		{
+			"decimalValue": "7",
+			"hexValue": "7"
+		},
+		{
+			"decimalValue": "8",
+			"hexValue": "8"
+		},
+		{
+			"decimalValue": "9",
+			"hexValue": "9"
+		},
+		{
+			"decimalValue": "10",
+			"hexValue": "A"
+		},
+		{
+			"decimalValue": "11",
+			"hexValue": "B"
+		},
+		{
+			"decimalValue": "12",
+			"hexValue": "C"
+		},
+		{
+			"decimalValue": "13",
+			"hexValue": "D"
+		},
+		{
+			"decimalValue": "14",
+			"hexValue": "E"
+		},
+		{
+			"decimalValue": "15",
+			"hexValue": "F"
+		},
+		{
+			"decimalValue": "16",
+			"hexValue": "10"
+		},
+		{
+			"decimalValue": "17",
+			"hexValue": "11"
+		},
+		{
+			"decimalValue": "18",
+			"hexValue": "12"
+		},
+		{
+			"decimalValue": "19",
+			"hexValue": "13"
+		},
+		{
+			"decimalValue": "20",
+			"hexValue": "14"
+		},
+		{
+			"decimalValue": "21",
+			"hexValue": "15"
+		},
+		{
+			"decimalValue": "22",
+			"hexValue": "16"
+		},
+		{
+			"decimalValue": "23",
+			"hexValue": "17"
+		},
+		{
+			"decimalValue": "24",
+			"hexValue": "18"
+		},
+		{
+			"decimalValue": "25",
+			"hexValue": "19"
+		},
+		{
+			"decimalValue": "26",
+			"hexValue": "1A"
+		},
+		{
+			"decimalValue": "27",
+			"hexValue": "1B"
+		},
+		{
+			"decimalValue": "28",
+			"hexValue": "1C"
+		},
+		{
+			"decimalValue": "29",
+			"hexValue": "1D"
+		},
+		{
+			"decimalValue": "30",
+			"hexValue": "1E"
+		},
+		{
+			"decimalValue": "31",
+			"hexValue": "1F"
+		},
+		{
+			"decimalValue": "32",
+			"hexValue": "20"
+		},
+		{
+			"decimalValue": "33",
+			"hexValue": "21"
+		},
+		{
+			"decimalValue": "34",
+			"hexValue": "22"
+		},
+		{
+			"decimalValue": "35",
+			"hexValue": "23"
+		},
+		{
+			"decimalValue": "36",
+			"hexValue": "24"
+		},
+		{
+			"decimalValue": "37",
+			"hexValue": "25"
+		},
+		{
+			"decimalValue": "38",
+			"hexValue": "26"
+		},
+		{
+			"decimalValue": "39",
+			"hexValue": "27"
+		},
+		{
+			"decimalValue": "40",
+			"hexValue": "28"
+		},
+		{
+			"decimalValue": "41",
+			"hexValue": "29"
+		},
+		{
+			"decimalValue": "42",
+			"hexValue": "2A"
+		},
+		{
+			"decimalValue": "43",
+			"hexValue": "2B"
+		},
+		{
+			"decimalValue": "44",
+			"hexValue": "2C"
+		},
+		{
+			"decimalValue": "45",
+			"hexValue": "2D"
+		},
+		{
+			"decimalValue": "46",
+			"hexValue": "2E"
+		},
+		{
+			"decimalValue": "47",
+			"hexValue": "2F"
+		},
+		{
+			"decimalValue": "48",
+			"hexValue": "30"
+		},
+		{
+			"decimalValue": "49",
+			"hexValue": "31"
+		},
+		{
+			"decimalValue": "50",
+			"hexValue": "32"
+		},
+		{
+			"decimalValue": "51",
+			"hexValue": "33"
+		},
+		{
+			"decimalValue": "52",
+			"hexValue": "34"
+		},
+		{
+			"decimalValue": "53",
+			"hexValue": "35"
+		},
+		{
+			"decimalValue": "54",
+			"hexValue": "36"
+		},
+		{
+			"decimalValue": "55",
+			"hexValue": "37"
+		},
+		{
+			"decimalValue": "56",
+			"hexValue": "38"
+		},
+		{
+			"decimalValue": "57",
+			"hexValue": "39"
+		},
+		{
+			"decimalValue": "58",
+			"hexValue": "3A"
+		},
+		{
+			"decimalValue": "59",
+			"hexValue": "3B"
+		},
+		{
+			"decimalValue": "60",
+			"hexValue": "3C"
+		},
+		{
+			"decimalValue": "61",
+			"hexValue": "3D"
+		},
+		{
+			"decimalValue": "62",
+			"hexValue": "3E"
+		},
+		{
+			"decimalValue": "63",
+			"hexValue": "3F"
+		},
+		{
+			"decimalValue": "64",
+			"hexValue": "40"
+		},
+		{
+			"decimalValue": "65",
+			"hexValue": "41"
+		},
+		{
+			"decimalValue": "66",
+			"hexValue": "42"
+		},
+		{
+			"decimalValue": "67",
+			"hexValue": "43"
+		},
+		{
+			"decimalValue": "68",
+			"hexValue": "44"
+		},
+		{
+			"decimalValue": "69",
+			"hexValue": "45"
+		},
+		{
+			"decimalValue": "70",
+			"hexValue": "46"
+		},
+		{
+			"decimalValue": "71",
+			"hexValue": "47"
+		},
+		{
+			"decimalValue": "72",
+			"hexValue": "48"
+		},
+		{
+			"decimalValue": "73",
+			"hexValue": "49"
+		},
+		{
+			"decimalValue": "74",
+			"hexValue": "4A"
+		},
+		{
+			"decimalValue": "75",
+			"hexValue": "4B"
+		},
+		{
+			"decimalValue": "76",
+			"hexValue": "4C"
+		},
+		{
+			"decimalValue": "77",
+			"hexValue": "4D"
+		},
+		{
+			"decimalValue": "78",
+			"hexValue": "4E"
+		},
+		{
+			"decimalValue": "79",
+			"hexValue": "4F"
+		},
+		{
+			"decimalValue": "80",
+			"hexValue": "50"
+		},
+		{
+			"decimalValue": "81",
+			"hexValue": "51"
+		},
+		{
+			"decimalValue": "82",
+			"hexValue": "52"
+		},
+		{
+			"decimalValue": "83",
+			"hexValue": "53"
+		},
+		{
+			"decimalValue": "84",
+			"hexValue": "54"
+		},
+		{
+			"decimalValue": "85",
+			"hexValue": "55"
+		},
+		{
+			"decimalValue": "86",
+			"hexValue": "56"
+		},
+		{
+			"decimalValue": "87",
+			"hexValue": "57"
+		},
+		{
+			"decimalValue": "88",
+			"hexValue": "58"
+		},
+		{
+			"decimalValue": "89",
+			"hexValue": "59"
+		},
+		{
+			"decimalValue": "90",
+			"hexValue": "5A"
+		},
+		{
+			"decimalValue": "91",
+			"hexValue": "5B"
+		},
+		{
+			"decimalValue": "92",
+			"hexValue": "5C"
+		},
+		{
+			"decimalValue": "93",
+			"hexValue": "5D"
+		},
+		{
+			"decimalValue": "94",
+			"hexValue": "5E"
+		},
+		{
+			"decimalValue": "95",
+			"hexValue": "5F"
+		},
+		{
+			"decimalValue": "96",
+			"hexValue": "60"
+		},
+		{
+			"decimalValue": "97",
+			"hexValue": "61"
+		},
+		{
+			"decimalValue": "98",
+			"hexValue": "62"
+		},
+		{
+			"decimalValue": "99",
+			"hexValue": "63"
+		},
+		{
+			"decimalValue": "100",
+			"hexValue": "64"
+		},
+		{
+			"decimalValue": "101",
+			"hexValue": "65"
+		},
+		{
+			"decimalValue": "102",
+			"hexValue": "66"
+		},
+		{
+			"decimalValue": "103",
+			"hexValue": "67"
+		},
+		{
+			"decimalValue": "104",
+			"hexValue": "68"
+		},
+		{
+			"decimalValue": "105",
+			"hexValue": "69"
+		},
+		{
+			"decimalValue": "106",
+			"hexValue": "6A"
+		},
+		{
+			"decimalValue": "107",
+			"hexValue": "6B"
+		},
+		{
+			"decimalValue": "108",
+			"hexValue": "6C"
+		},
+		{
+			"decimalValue": "109",
+			"hexValue": "6D"
+		},
+		{
+			"decimalValue": "110",
+			"hexValue": "6E"
+		},
+		{
+			"decimalValue": "111",
+			"hexValue": "6F"
+		},
+		{
+			"decimalValue": "112",
+			"hexValue": "70"
+		},
+		{
+			"decimalValue": "113",
+			"hexValue": "71"
+		},
+		{
+			"decimalValue": "114",
+			"hexValue": "72"
+		},
+		{
+			"decimalValue": "115",
+			"hexValue": "73"
+		},
+		{
+			"decimalValue": "116",
+			"hexValue": "74"
+		},
+		{
+			"decimalValue": "117",
+			"hexValue": "75"
+		},
+		{
+			"decimalValue": "118",
+			"hexValue": "76"
+		},
+		{
+			"decimalValue": "119",
+			"hexValue": "77"
+		},
+		{
+			"decimalValue": "120",
+			"hexValue": "78"
+		},
+		{
+			"decimalValue": "121",
+			"hexValue": "79"
+		},
+		{
+			"decimalValue": "122",
+			"hexValue": "7A"
+		},
+		{
+			"decimalValue": "123",
+			"hexValue": "7B"
+		},
+		{
+			"decimalValue": "124",
+			"hexValue": "7C"
+		},
+		{
+			"decimalValue": "125",
+			"hexValue": "7D"
+		},
+		{
+			"decimalValue": "126",
+			"hexValue": "7E"
+		},
+		{
+			"decimalValue": "127",
+			"hexValue": "7F"
+		},
+		{
+			"decimalValue": "128",
+			"hexValue": "80"
+		},
+		{
+			"decimalValue": "129",
+			"hexValue": "81"
+		},
+		{
+			"decimalValue": "130",
+			"hexValue": "82"
+		},
+		{
+			"decimalValue": "131",
+			"hexValue": "83"
+		},
+		{
+			"decimalValue": "132",
+			"hexValue": "84"
+		},
+		{
+			"decimalValue": "133",
+			"hexValue": "85"
+		},
+		{
+			"decimalValue": "134",
+			"hexValue": "86"
+		},
+		{
+			"decimalValue": "135",
+			"hexValue": "87"
+		},
+		{
+			"decimalValue": "136",
+			"hexValue": "88"
+		},
+		{
+			"decimalValue": "137",
+			"hexValue": "89"
+		},
+		{
+			"decimalValue": "138",
+			"hexValue": "8A"
+		},
+		{
+			"decimalValue": "139",
+			"hexValue": "8B"
+		},
+		{
+			"decimalValue": "140",
+			"hexValue": "8C"
+		},
+		{
+			"decimalValue": "141",
+			"hexValue": "8D"
+		},
+		{
+			"decimalValue": "142",
+			"hexValue": "8E"
+		},
+		{
+			"decimalValue": "143",
+			"hexValue": "8F"
+		},
+		{
+			"decimalValue": "144",
+			"hexValue": "90"
+		},
+		{
+			"decimalValue": "145",
+			"hexValue": "91"
+		},
+		{
+			"decimalValue": "146",
+			"hexValue": "92"
+		},
+		{
+			"decimalValue": "147",
+			"hexValue": "93"
+		},
+		{
+			"decimalValue": "148",
+			"hexValue": "94"
+		},
+		{
+			"decimalValue": "149",
+			"hexValue": "95"
+		},
+		{
+			"decimalValue": "150",
+			"hexValue": "96"
+		},
+		{
+			"decimalValue": "151",
+			"hexValue": "97"
+		},
+		{
+			"decimalValue": "152",
+			"hexValue": "98"
+		},
+		{
+			"decimalValue": "153",
+			"hexValue": "99"
+		},
+		{
+			"decimalValue": "154",
+			"hexValue": "9A"
+		},
+		{
+			"decimalValue": "155",
+			"hexValue": "9B"
+		},
+		{
+			"decimalValue": "156",
+			"hexValue": "9C"
+		},
+		{
+			"decimalValue": "157",
+			"hexValue": "9D"
+		},
+		{
+			"decimalValue": "158",
+			"hexValue": "9E"
+		},
+		{
+			"decimalValue": "159",
+			"hexValue": "9F"
+		},
+		{
+			"decimalValue": "160",
+			"hexValue": "A0"
+		},
+		{
+			"decimalValue": "161",
+			"hexValue": "A1"
+		},
+		{
+			"decimalValue": "162",
+			"hexValue": "A2"
+		},
+		{
+			"decimalValue": "163",
+			"hexValue": "A3"
+		},
+		{
+			"decimalValue": "164",
+			"hexValue": "A4"
+		},
+		{
+			"decimalValue": "165",
+			"hexValue": "A5"
+		},
+		{
+			"decimalValue": "166",
+			"hexValue": "A6"
+		},
+		{
+			"decimalValue": "167",
+			"hexValue": "A7"
+		},
+		{
+			"decimalValue": "168",
+			"hexValue": "A8"
+		},
+		{
+			"decimalValue": "169",
+			"hexValue": "A9"
+		},
+		{
+			"decimalValue": "170",
+			"hexValue": "AA"
+		},
+		{
+			"decimalValue": "171",
+			"hexValue": "AB"
+		},
+		{
+			"decimalValue": "172",
+			"hexValue": "AC"
+		},
+		{
+			"decimalValue": "173",
+			"hexValue": "AD"
+		},
+		{
+			"decimalValue": "174",
+			"hexValue": "AE"
+		},
+		{
+			"decimalValue": "175",
+			"hexValue": "AF"
+		},
+		{
+			"decimalValue": "176",
+			"hexValue": "B0"
+		},
+		{
+			"decimalValue": "177",
+			"hexValue": "B1"
+		},
+		{
+			"decimalValue": "178",
+			"hexValue": "B2"
+		},
+		{
+			"decimalValue": "179",
+			"hexValue": "B3"
+		},
+		{
+			"decimalValue": "180",
+			"hexValue": "B4"
+		},
+		{
+			"decimalValue": "181",
+			"hexValue": "B5"
+		},
+		{
+			"decimalValue": "182",
+			"hexValue": "B6"
+		},
+		{
+			"decimalValue": "183",
+			"hexValue": "B7"
+		},
+		{
+			"decimalValue": "184",
+			"hexValue": "B8"
+		},
+		{
+			"decimalValue": "185",
+			"hexValue": "B9"
+		},
+		{
+			"decimalValue": "186",
+			"hexValue": "BA"
+		},
+		{
+			"decimalValue": "187",
+			"hexValue": "BB"
+		},
+		{
+			"decimalValue": "188",
+			"hexValue": "BC"
+		},
+		{
+			"decimalValue": "189",
+			"hexValue": "BD"
+		},
+		{
+			"decimalValue": "190",
+			"hexValue": "BE"
+		},
+		{
+			"decimalValue": "191",
+			"hexValue": "BF"
+		},
+		{
+			"decimalValue": "192",
+			"hexValue": "C0"
+		},
+		{
+			"decimalValue": "193",
+			"hexValue": "C1"
+		},
+		{
+			"decimalValue": "194",
+			"hexValue": "C2"
+		},
+		{
+			"decimalValue": "195",
+			"hexValue": "C3"
+		},
+		{
+			"decimalValue": "196",
+			"hexValue": "C4"
+		},
+		{
+			"decimalValue": "197",
+			"hexValue": "C5"
+		},
+		{
+			"decimalValue": "198",
+			"hexValue": "C6"
+		},
+		{
+			"decimalValue": "199",
+			"hexValue": "C7"
+		},
+		{
+			"decimalValue": "200",
+			"hexValue": "C8"
+		},
+		{
+			"decimalValue": "201",
+			"hexValue": "C9"
+		},
+		{
+			"decimalValue": "202",
+			"hexValue": "CA"
+		},
+		{
+			"decimalValue": "203",
+			"hexValue": "CB"
+		},
+		{
+			"decimalValue": "204",
+			"hexValue": "CC"
+		},
+		{
+			"decimalValue": "205",
+			"hexValue": "CD"
+		},
+		{
+			"decimalValue": "206",
+			"hexValue": "CE"
+		},
+		{
+			"decimalValue": "207",
+			"hexValue": "CF"
+		},
+		{
+			"decimalValue": "208",
+			"hexValue": "D0"
+		},
+		{
+			"decimalValue": "209",
+			"hexValue": "D1"
+		},
+		{
+			"decimalValue": "210",
+			"hexValue": "D2"
+		},
+		{
+			"decimalValue": "211",
+			"hexValue": "D3"
+		},
+		{
+			"decimalValue": "212",
+			"hexValue": "D4"
+		},
+		{
+			"decimalValue": "213",
+			"hexValue": "D5"
+		},
+		{
+			"decimalValue": "214",
+			"hexValue": "D6"
+		},
+		{
+			"decimalValue": "215",
+			"hexValue": "D7"
+		},
+		{
+			"decimalValue": "216",
+			"hexValue": "D8"
+		},
+		{
+			"decimalValue": "217",
+			"hexValue": "D9"
+		},
+		{
+			"decimalValue": "218",
+			"hexValue": "DA"
+		},
+		{
+			"decimalValue": "219",
+			"hexValue": "DB"
+		},
+		{
+			"decimalValue": "220",
+			"hexValue": "DC"
+		},
+		{
+			"decimalValue": "221",
+			"hexValue": "DD"
+		},
+		{
+			"decimalValue": "222",
+			"hexValue": "DE"
+		},
+		{
+			"decimalValue": "223",
+			"hexValue": "DF"
+		},
+		{
+			"decimalValue": "224",
+			"hexValue": "E0"
+		},
+		{
+			"decimalValue": "225",
+			"hexValue": "E1"
+		},
+		{
+			"decimalValue": "226",
+			"hexValue": "E2"
+		},
+		{
+			"decimalValue": "227",
+			"hexValue": "E3"
+		},
+		{
+			"decimalValue": "228",
+			"hexValue": "E4"
+		},
+		{
+			"decimalValue": "229",
+			"hexValue": "E5"
+		},
+		{
+			"decimalValue": "230",
+			"hexValue": "E6"
+		},
+		{
+			"decimalValue": "231",
+			"hexValue": "E7"
+		},
+		{
+			"decimalValue": "232",
+			"hexValue": "E8"
+		},
+		{
+			"decimalValue": "233",
+			"hexValue": "E9"
+		},
+		{
+			"decimalValue": "234",
+			"hexValue": "EA"
+		},
+		{
+			"decimalValue": "235",
+			"hexValue": "EB"
+		},
+		{
+			"decimalValue": "236",
+			"hexValue": "EC"
+		},
+		{
+			"decimalValue": "237",
+			"hexValue": "ED"
+		},
+		{
+			"decimalValue": "238",
+			"hexValue": "EE"
+		},
+		{
+			"decimalValue": "239",
+			"hexValue": "EF"
+		},
+		{
+			"decimalValue": "240",
+			"hexValue": "F0"
+		},
+		{
+			"decimalValue": "241",
+			"hexValue": "F1"
+		},
+		{
+			"decimalValue": "242",
+			"hexValue": "F2"
+		},
+		{
+			"decimalValue": "243",
+			"hexValue": "F3"
+		},
+		{
+			"decimalValue": "244",
+			"hexValue": "F4"
+		},
+		{
+			"decimalValue": "245",
+			"hexValue": "F5"
+		},
+		{
+			"decimalValue": "246",
+			"hexValue": "F6"
+		},
+		{
+			"decimalValue": "247",
+			"hexValue": "F7"
+		},
+		{
+			"decimalValue": "248",
+			"hexValue": "F8"
+		},
+		{
+			"decimalValue": "249",
+			"hexValue": "F9"
+		},
+		{
+			"decimalValue": "250",
+			"hexValue": "FA"
+		},
+		{
+			"decimalValue": "251",
+			"hexValue": "FB"
+		},
+		{
+			"decimalValue": "252",
+			"hexValue": "FC"
+		},
+		{
+			"decimalValue": "253",
+			"hexValue": "FD"
+		},
+		{
+			"decimalValue": "254",
+			"hexValue": "FE"
+		},
+		{
+			"decimalValue": "255",
+			"hexValue": "FF"
+		}
+
+	]
+}

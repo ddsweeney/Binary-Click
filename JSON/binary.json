@@ -1,0 +1,772 @@
+{
+  "Binary": [
+
+    {
+      "binaryAnswer": "00000001"
+    },
+    {
+      "binaryAnswer": "00000010"
+    },
+    {
+      "binaryAnswer": "00000011"
+    },
+    {
+      "binaryAnswer": "00000100"
+    },
+    {
+      "binaryAnswer": "00000101"
+    },
+    {
+      "binaryAnswer": "00000110"
+    },
+    {
+      "binaryAnswer": "00000111"
+    },
+    {
+      "binaryAnswer": "00001000"
+    },
+    {
+      "binaryAnswer": "00001001"
+    },
+    {
+      "binaryAnswer": "00001010"
+    },
+    {
+      "binaryAnswer": "00001011"
+    },
+    {
+      "binaryAnswer": "00001100"
+    },
+    {
+      "binaryAnswer": "00001101"
+    },
+    {
+      "binaryAnswer": "00001110"
+    },
+    {
+      "binaryAnswer": "00001111"
+    },
+    {
+      "binaryAnswer": "00010000"
+    },
+    {
+      "binaryAnswer": "00010001"
+    },
+    {
+      "binaryAnswer": "00010010"
+    },
+    {
+      "binaryAnswer": "00010011"
+    },
+    {
+      "binaryAnswer": "00010100"
+    },
+    {
+      "binaryAnswer": "00010101"
+    },
+    {
+      "binaryAnswer": "00010110"
+    },
+    {
+      "binaryAnswer": "00010111"
+    },
+    {
+      "binaryAnswer": "00011000"
+    },
+    {
+      "binaryAnswer": "00011001"
+    },
+    {
+      "binaryAnswer": "00011010"
+    },
+    {
+      "binaryAnswer": "00011011"
+    },
+    {
+      "binaryAnswer": "00011100"
+    },
+    {
+      "binaryAnswer": "00011101"
+    },
+    {
+      "binaryAnswer": "00011110"
+    },
+    {
+      "binaryAnswer": "00011111"
+    },
+    {
+      "binaryAnswer": "00100000"
+    },
+    {
+      "binaryAnswer": "00100001"
+    },
+    {
+      "binaryAnswer": "00100010"
+    },
+    {
+      "binaryAnswer": "00100011"
+    },
+    {
+      "binaryAnswer": "00100100"
+    },
+    {
+      "binaryAnswer": "00100101"
+    },
+    {
+      "binaryAnswer": "00100110"
+    },
+    {
+      "binaryAnswer": "00100111"
+    },
+    {
+      "binaryAnswer": "00101000"
+    },
+    {
+      "binaryAnswer": "00101001"
+    },
+    {
+      "binaryAnswer": "00101010"
+    },
+    {
+      "binaryAnswer": "00101011"
+    },
+    {
+      "binaryAnswer": "00101100"
+    },
+    {
+      "binaryAnswer": "00101101"
+    },
+    {
+      "binaryAnswer": "00101110"
+    },
+    {
+      "binaryAnswer": "00101111"
+    },
+    {
+      "binaryAnswer": "00110000"
+    },
+    {
+      "binaryAnswer": "00110001"
+    },
+    {
+      "binaryAnswer": "00110010"
+    },
+    {
+      "binaryAnswer": "00110011"
+    },
+    {
+      "binaryAnswer": "00110100"
+    },
+    {
+      "binaryAnswer": "00110101"
+    },
+    {
+      "binaryAnswer": "00110110"
+    },
+    {
+      "binaryAnswer": "00110111"
+    },
+    {
+      "binaryAnswer": "00111000"
+    },
+    {
+      "binaryAnswer": "00111001"
+    },
+    {
+      "binaryAnswer": "00111010"
+    },
+    {
+      "binaryAnswer": "00111011"
+    },
+    {
+      "binaryAnswer": "00111100"
+    },
+    {
+      "binaryAnswer": "00111101"
+    },
+    {
+      "binaryAnswer": "00111110"
+    },
+    {
+      "binaryAnswer": "00111111"
+    },
+    {
+      "binaryAnswer": "01000000"
+    },
+    {
+      "binaryAnswer": "01000001"
+    },
+    {
+      "binaryAnswer": "01000010"
+    },
+    {
+      "binaryAnswer": "01000011"
+    },
+    {
+      "binaryAnswer": "01000100"
+    },
+    {
+      "binaryAnswer": "01000101"
+    },
+    {
+      "binaryAnswer": "01000110"
+    },
+    {
+      "binaryAnswer": "01000111"
+    },
+    {
+      "binaryAnswer": "01001000"
+    },
+    {
+      "binaryAnswer": "01001001"
+    },
+    {
+      "binaryAnswer": "01001010"
+    },
+    {
+      "binaryAnswer": "01001011"
+    },
+    {
+      "binaryAnswer": "01001100"
+    },
+    {
+      "binaryAnswer": "01001101"
+    },
+    {
+      "binaryAnswer": "01001110"
+    },
+    {
+      "binaryAnswer": "01001111"
+    },
+    {
+      "binaryAnswer": "01010000"
+    },
+    {
+      "binaryAnswer": "01010001"
+    },
+    {
+      "binaryAnswer": "01010010"
+    },
+    {
+      "binaryAnswer": "01010011"
+    },
+    {
+      "binaryAnswer": "01010100"
+    },
+    {
+      "binaryAnswer": "01010101"
+    },
+    {
+      "binaryAnswer": "01010110"
+    },
+    {
+      "binaryAnswer": "01010111"
+    },
+    {
+      "binaryAnswer": "01011000"
+    },
+    {
+      "binaryAnswer": "01011001"
+    },
+    {
+      "binaryAnswer": "01011010"
+    },
+    {
+      "binaryAnswer": "01011011"
+    },
+    {
+      "binaryAnswer": "01011100"
+    },
+    {
+      "binaryAnswer": "01011101"
+    },
+    {
+      "binaryAnswer": "01011110"
+    },
+    {
+      "binaryAnswer": "01011111"
+    },
+    {
+      "binaryAnswer": "01100000"
+    },
+    {
+      "binaryAnswer": "01100001"
+    },
+    {
+      "binaryAnswer": "01100010"
+    },
+    {
+      "binaryAnswer": "01100011"
+    },
+    {
+      "binaryAnswer": "01100100"
+    },
+    {
+      "binaryAnswer": "01100101"
+    },
+    {
+      "binaryAnswer": "01100110"
+    },
+    {
+      "binaryAnswer": "01100111"
+    },
+    {
+      "binaryAnswer": "01101000"
+    },
+    {
+      "binaryAnswer": "01101001"
+    },
+    {
+      "binaryAnswer": "01101010"
+    },
+    {
+      "binaryAnswer": "01101011"
+    },
+    {
+      "binaryAnswer": "01101100"
+    },
+    {
+      "binaryAnswer": "01101101"
+    },
+    {
+      "binaryAnswer": "01101110"
+    },
+    {
+      "binaryAnswer": "01101111"
+    },
+    {
+      "binaryAnswer": "01110000"
+    },
+    {
+      "binaryAnswer": "01110001"
+    },
+    {
+      "binaryAnswer": "01110010"
+    },
+    {
+      "binaryAnswer": "01110011"
+    },
+    {
+      "binaryAnswer": "01110100"
+    },
+    {
+      "binaryAnswer": "01110101"
+    },
+    {
+      "binaryAnswer": "01110110"
+    },
+    {
+      "binaryAnswer": "01110111"
+    },
+    {
+      "binaryAnswer": "01111000"
+    },
+    {
+      "binaryAnswer": "01111001"
+    },
+    {
+      "binaryAnswer": "01111010"
+    },
+    {
+      "binaryAnswer": "0111101"
+    },
+    {
+      "binaryAnswer": "01111100"
+    },
+    {
+      "binaryAnswer": "01111101"
+    },
+    {
+      "binaryAnswer": "01111110"
+    },
+    {
+      "binaryAnswer": "01111111"
+    },
+    {
+      "binaryAnswer": "10000000"
+    },
+    {
+      "binaryAnswer": "10000001"
+    },
+    {
+      "binaryAnswer": "10000010"
+    },
+    {
+      "binaryAnswer": "10000011"
+    },
+    {
+      "binaryAnswer": "10000100"
+    },
+    {
+      "binaryAnswer": "10000101"
+    },
+    {
+      "binaryAnswer": "10000110"
+    },
+    {
+      "binaryAnswer": "10000111"
+    },
+    {
+      "binaryAnswer": "10001000"
+    },
+    {
+      "binaryAnswer": "10001001"
+    },
+    {
+      "binaryAnswer": "10001010"
+    },
+    {
+      "binaryAnswer": "10001011"
+    },
+    {
+      "binaryAnswer": "10001100"
+    },
+    {
+      "binaryAnswer": "10001101"
+    },
+    {
+      "binaryAnswer": "10001110"
+    },
+    {
+      "binaryAnswer": "10001111"
+    },
+    {
+      "binaryAnswer": "10010000"
+    },
+    {
+      "binaryAnswer": "10010001"
+    },
+    {
+      "binaryAnswer": "10000010"
+    },
+    {
+      "binaryAnswer": "10000011"
+    },
+    {
+      "binaryAnswer": "10000100"
+    },
+    {
+      "binaryAnswer": "10010101"
+    },
+    {
+      "binaryAnswer": "10010110"
+    },
+    {
+      "binaryAnswer": "10010111"
+    },
+    {
+      "binaryAnswer": "10011000"
+    },
+    {
+      "binaryAnswer": "10011001"
+    },
+    {
+      "binaryAnswer": "10011010"
+    },
+    {
+      "binaryAnswer": "10011011"
+    },
+    {
+      "binaryAnswer": "10011100"
+    },
+    {
+      "binaryAnswer": "10011101"
+    },
+    {
+      "binaryAnswer": "10011110"
+    },
+    {
+      "binaryAnswer": "10011111"
+    },
+    {
+      "binaryAnswer": "10100000"
+    },
+    {
+      "binaryAnswer": "10100001"
+    },
+    {
+      "binaryAnswer": "10100010"
+    },
+    {
+      "binaryAnswer": "10100011"
+    },
+    {
+      "binaryAnswer": "10100100"
+    },
+    {
+      "binaryAnswer": "10100101"
+    },
+    {
+      "binaryAnswer": "10100110"
+    },
+    {
+      "binaryAnswer": "10100111"
+    },
+    {
+      "binaryAnswer": "10101000"
+    },
+    {
+      "binaryAnswer": "10101001"
+    },
+    {
+      "binaryAnswer": "10101010"
+    },
+    {
+      "binaryAnswer": "10101011"
+    },
+    {
+      "binaryAnswer": "10101100"
+    },
+    {
+      "binaryAnswer": "10101101"
+    },
+    {
+      "binaryAnswer": "10101110"
+    },
+    {
+      "binaryAnswer": "10101111"
+    },
+    {
+      "binaryAnswer": "10110000"
+    },
+    {
+      "binaryAnswer": "10110001"
+    },
+    {
+      "binaryAnswer": "10110010"
+    },
+    {
+      "binaryAnswer": "10110011"
+    },
+    {
+      "binaryAnswer": "10110100"
+    },
+    {
+      "binaryAnswer": "10110101"
+    },
+    {
+      "binaryAnswer": "10110110"
+    },
+    {
+      "binaryAnswer": "10110111"
+    },
+    {
+      "binaryAnswer": "10111000"
+    },
+    {
+      "binaryAnswer": "10111001"
+    },
+    {
+      "binaryAnswer": "10111010"
+    },
+    {
+      "binaryAnswer": "10111011"
+    },
+    {
+      "binaryAnswer": "10111100"
+    },
+    {
+      "binaryAnswer": "10111101"
+    },
+    {
+      "binaryAnswer": "10111110"
+    },
+    {
+      "binaryAnswer": "10111111"
+    },
+    {
+      "binaryAnswer": "11000000"
+    },
+    {
+      "binaryAnswer": "11000001"
+    },
+    {
+      "binaryAnswer": "11000010"
+    },
+    {
+      "binaryAnswer": "11000011"
+    },
+    {
+      "binaryAnswer": "11000100"
+    },
+    {
+      "binaryAnswer": "11000101"
+    },
+    {
+      "binaryAnswer": "11000110"
+    },
+    {
+      "binaryAnswer": "11000111"
+    },
+    {
+      "binaryAnswer": "11001000"
+    },
+    {
+      "binaryAnswer": "11001001"
+    },
+    {
+      "binaryAnswer": "11001010"
+    },
+    {
+      "binaryAnswer": "11001011"
+    },
+    {
+      "binaryAnswer": "11001100"
+    },
+    {
+      "binaryAnswer": "11001101"
+    },
+    {
+      "binaryAnswer": "11001110"
+    },
+    {
+      "binaryAnswer": "11001111"
+    },
+    {
+      "binaryAnswer": "11010000"
+    },
+    {
+      "binaryAnswer": "11010001"
+    },
+    {
+      "binaryAnswer": "11010010"
+    },
+    {
+      "binaryAnswer": "11010011"
+    },
+    {
+      "binaryAnswer": "11010100"
+    },
+    {
+      "binaryAnswer": "11010101"
+    },
+    {
+      "binaryAnswer": "11010110"
+    },
+    {
+      "binaryAnswer": "11010111"
+    },
+    {
+      "binaryAnswer": "11011000"
+    },
+    {
+      "binaryAnswer": "11011001"
+    },
+    {
+      "binaryAnswer": "11011010"
+    },
+    {
+      "binaryAnswer": "11011011"
+    },
+    {
+      "binaryAnswer": "11011100"
+    },
+    {
+      "binaryAnswer": "11011101"
+    },
+    {
+      "binaryAnswer": "11011110"
+    },
+    {
+      "binaryAnswer": "11011111"
+    },
+    {
+      "binaryAnswer": "11100000"
+    },
+    {
+      "binaryAnswer": "11100001"
+    },
+    {
+      "binaryAnswer": "11100010"
+    },
+    {
+      "binaryAnswer": "11100011"
+    },
+    {
+      "binaryAnswer": "11100100"
+    },
+    {
+      "binaryAnswer": "11100101"
+    },
+    {
+      "binaryAnswer": "11100110"
+    },
+    {
+      "binaryAnswer": "11100111"
+    },
+    {
+      "binaryAnswer": "11101000"
+    },
+    {
+      "binaryAnswer": "11101001"
+    },
+    {
+      "binaryAnswer": "11101010"
+    },
+    {
+      "binaryAnswer": "11101011"
+    },
+    {
+      "binaryAnswer": "11101100"
+    },
+    {
+      "binaryAnswer": "11101101"
+    },
+    {
+      "binaryAnswer": "11101110"
+    },
+    {
+      "binaryAnswer": "11101111"
+    },
+    {
+      "binaryAnswer": "11110000"
+    },
+    {
+      "binaryAnswer": "11110001"
+    },
+    {
+      "binaryAnswer": "11110010"
+    },
+    {
+      "binaryAnswer": "11110011"
+    },
+    {
+      "binaryAnswer": "11110100"
+    },
+    {
+      "binaryAnswer": "11110101"
+    },
+    {
+      "binaryAnswer": "11110110"
+    },
+    {
+      "binaryAnswer": "11110111"
+    },
+    {
+      "binaryAnswer": "11111000"
+    },
+    {
+      "binaryAnswer": "11111001"
+    },
+    {
+      "binaryAnswer": "11111010"
+    },
+    {
+      "binaryAnswer": "11111011"
+    },
+    {
+      "binaryAnswer": "11111100"
+    },
+    {
+      "binaryAnswer": "11111101"
+    },
+    {
+      "binaryAnswer": "11111110"
+    },
+    {
+      "binaryAnswer": "11111111"
+    }
+
+  ]
+}
+

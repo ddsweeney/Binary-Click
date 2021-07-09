@@ -1,0 +1,320 @@
+{
+	"BintodecClass": [
+    {
+      "binaryAnswer": "00000001",
+      "decimalValue": "1"
+
+    },
+    {
+      "binaryAnswer": "00000010",
+      "decimalValue": "2"
+
+    },
+    {
+      "binaryAnswer": "00000011",
+      "decimalValue": "3"
+
+    },
+    {
+      "binaryAnswer": "00000100",
+      "decimalValue": "4"
+
+    },
+    {
+      "binaryAnswer": "00000101",
+      "decimalValue": "5"
+
+    },
+    {
+      "binaryAnswer": "00000110",
+      "decimalValue": "6"
+
+    },
+    {
+      "binaryAnswer": "00000111",
+      "decimalValue": "7"
+
+    },
+    {
+      "binaryAnswer": "00001000",
+      "decimalValue": "8"
+
+    },
+    {
+      "binaryAnswer": "00001001",
+      "decimalValue": "9"
+
+    },
+    {
+      "binaryAnswer": "00001010",
+      "decimalValue": "10"
+
+    },
+    {
+      "binaryAnswer": "00001011",
+      "decimalValue": "11"
+
+    },
+    {
+      "binaryAnswer": "00001100",
+      "decimalValue": "12"
+
+    },
+    {
+      "binaryAnswer": "00001101",
+      "decimalValue": "13"
+
+    },
+    {
+      "binaryAnswer": "00001110",
+      "decimalValue": "14"
+
+    },
+    {
+      "binaryAnswer": "00001111",
+      "decimalValue": "15"
+
+    },
+    {
+      "binaryAnswer": "00010000",
+      "decimalValue": "16"
+
+    },
+    {
+      "binaryAnswer": "00010001",
+      "decimalValue": "17"
+
+    },
+    {
+      "binaryAnswer": "00010010",
+      "decimalValue": "18"
+
+    },
+    {
+      "binaryAnswer": "00010011",
+      "decimalValue": "19"
+
+    },
+    {
+      "binaryAnswer": "00010100",
+      "decimalValue": "20"
+
+    },
+    {
+      "binaryAnswer": "00010101",
+      "decimalValue": "21"
+
+    },
+    {
+      "binaryAnswer": "00010110",
+      "decimalValue": "22"
+
+    },
+    {
+      "binaryAnswer": "00010111",
+      "decimalValue": "23"
+
+    },
+    {
+      "binaryAnswer": "00011000",
+      "decimalValue": "24"
+
+    },
+    {
+      "binaryAnswer": "00011001",
+      "decimalValue": "25"
+
+    },
+    {
+      "binaryAnswer": "00011010",
+      "decimalValue": "26"
+
+    },
+    {
+      "binaryAnswer": "00011011",
+      "decimalValue": "27"
+
+    },
+    {
+      "binaryAnswer": "00011100",
+      "decimalValue": "28"
+
+    },
+    {
+      "binaryAnswer": "00011101",
+      "decimalValue": "29"
+
+    },
+    {
+      "binaryAnswer": "00011110",
+      "decimalValue": "30"
+
+    },
+    {
+      "binaryAnswer": "00011111",
+      "decimalValue": "31"
+
+    },
+    {
+      "binaryAnswer": "00100000",
+      "decimalValue": "32"
+
+    },
+    {
+      "binaryAnswer": "00100001",
+      "decimalValue": "33"
+
+    },
+    {
+      "binaryAnswer": "00100010",
+      "decimalValue": "34"
+
+    },
+    {
+      "binaryAnswer": "00100011",
+      "decimalValue": "35"
+
+    },
+    {
+      "binaryAnswer": "00100100",
+      "decimalValue": "36"
+
+    },
+    {
+      "binaryAnswer": "00100101",
+      "decimalValue": "37"
+
+    },
+    {
+      "binaryAnswer": "00100110",
+      "decimalValue": "38"
+
+    },
+    {
+      "binaryAnswer": "00100111",
+      "decimalValue": "39"
+
+    },
+    {
+      "binaryAnswer": "00101000",
+      "decimalValue": "40"
+
+    },
+    {
+      "binaryAnswer": "00101001",
+      "decimalValue": "41"
+
+    },
+    {
+      "binaryAnswer": "00101010",
+      "decimalValue": "42"
+
+    },
+    {
+      "binaryAnswer": "00101011",
+      "decimalValue": "43"
+
+    },
+    {
+      "binaryAnswer": "00101100",
+      "decimalValue": "44"
+
+    },
+    {
+      "binaryAnswer": "00101101",
+      "decimalValue": "45"
+
+    },
+    {
+      "binaryAnswer": "00101110",
+      "decimalValue": "46"
+
+    },
+    {
+      "binaryAnswer": "00101111",
+      "decimalValue": "47"
+
+    },
+    {
+      "binaryAnswer": "00110000",
+      "decimalValue": "48"
+
+    },
+    {
+      "binaryAnswer": "00110001",
+      "decimalValue": "49"
+
+    },
+    {
+      "binaryAnswer": "00110010",
+      "decimalValue": "50"
+
+    },
+    {
+      "binaryAnswer": "00110011",
+      "decimalValue": "51"
+
+    },
+    {
+      "binaryAnswer": "00110100",
+      "decimalValue": "52"
+
+    },
+    {
+      "binaryAnswer": "00110101",
+      "decimalValue": "53"
+
+    },
+    {
+      "binaryAnswer": "00110110",
+      "decimalValue": "54"
+
+    },
+    {
+      "binaryAnswer": "00110111",
+      "decimalValue": "55"
+
+    },
+    {
+      "binaryAnswer": "00111000",
+      "decimalValue": "56"
+
+    },
+    {
+      "binaryAnswer": "00111001",
+      "decimalValue": "57"
+
+    },
+    {
+      "binaryAnswer": "00111010",
+      "decimalValue": "58"
+
+    },
+    {
+      "binaryAnswer": "00111011",
+      "decimalValue": "59"
+
+    },
+    {
+      "binaryAnswer": "00111100",
+      "decimalValue": "60"
+
+    },
+    {
+      "binaryAnswer": "00111101",
+      "decimalValue": "61"
+
+    },
+    {
+      "binaryAnswer": "00111110",
+      "decimalValue": "62"
+
+    },
+    {
+      "binaryAnswer": "00111111",
+      "decimalValue": "63"
+
+    }
+		
+	]
+}

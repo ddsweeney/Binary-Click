@@ -1,0 +1,1029 @@
+{
+
+	"BintohexClass": [
+
+		{
+			"binaryAnswer": "00000001",
+			"hexValue": "1"
+		},
+		{
+			"binaryAnswer": "00000010",
+			"hexValue": "2"
+		},
+		{
+			"binaryAnswer": "00000011",
+			"hexValue": "3"
+		},
+		{
+			"binaryAnswer": "00000100",
+			"hexValue": "4"
+		},
+		{
+			"binaryAnswer": "00000101",
+			"hexValue": "5"
+		},
+		{
+			"binaryAnswer": "00000110",
+			"hexValue": "6"
+		},
+		{
+			"binaryAnswer": "00000111",
+			"hexValue": "7"
+		},
+		{
+			"binaryAnswer": "00001000",
+			"hexValue": "8"
+		},
+		{
+			"binaryAnswer": "00001001",
+			"hexValue": "9"
+		},
+		{
+			"binaryAnswer": "00001010",
+			"hexValue": "A"
+		},
+		{
+			"binaryAnswer": "00001011",
+			"hexValue": "B"
+		},
+		{
+			"binaryAnswer": "00001100",
+			"hexValue": "C"
+		},
+		{
+			"binaryAnswer": "00001101",
+			"hexValue": "D"
+		},
+		{
+			"binaryAnswer": "00001110",
+			"hexValue": "E"
+		},
+		{
+			"binaryAnswer": "00001111",
+			"hexValue": "F"
+		},
+		{
+			"binaryAnswer": "00010000",
+			"hexValue": "10"
+		},
+		{
+			"binaryAnswer": "00010001",
+			"hexValue": "11"
+		},
+		{
+			"binaryAnswer": "00010010",
+			"hexValue": "12"
+		},
+		{
+			"binaryAnswer": "00010011",
+			"hexValue": "13"
+		},
+		{
+			"binaryAnswer": "00010100",
+			"hexValue": "14"
+		},
+		{
+			"binaryAnswer": "00010101",
+			"hexValue": "15"
+		},
+		{
+			"binaryAnswer": "00010110",
+			"hexValue": "16"
+		},
+		{
+			"binaryAnswer": "00010111",
+			"hexValue": "17"
+		},
+		{
+			"binaryAnswer": "00011000",
+			"hexValue": "18"
+		},
+		{
+			"binaryAnswer": "00011001",
+			"hexValue": "19"
+		},
+		{
+			"binaryAnswer": "00011010",
+			"hexValue": "1A"
+		},
+		{
+			"binaryAnswer": "00011011",
+			"hexValue": "1B"
+		},
+		{
+			"binaryAnswer": "00011100",
+			"hexValue": "1C"
+		},
+		{
+			"binaryAnswer": "00011101",
+			"hexValue": "1D"
+		},
+		{
+			"binaryAnswer": "00011110",
+			"hexValue": "1E"
+		},
+		{
+			"binaryAnswer": "00011111",
+			"hexValue": "1F"
+		},
+		{
+			"binaryAnswer": "00100000",
+			"hexValue": "20"
+		},
+		{
+			"binaryAnswer": "00100001",
+			"hexValue": "21"
+		},
+		{
+			"binaryAnswer": "00100010",
+			"hexValue": "22"
+		},
+		{
+			"binaryAnswer": "00100011",
+			"hexValue": "23"
+		},
+		{
+			"binaryAnswer": "00100100",
+			"hexValue": "24"
+		},
+		{
+			"binaryAnswer": "00100101",
+			"hexValue": "25"
+		},
+		{
+			"binaryAnswer": "00100110",
+			"hexValue": "26"
+		},
+		{
+			"binaryAnswer": "00100111",
+			"hexValue": "27"
+		},
+		{
+			"binaryAnswer": "00101000",
+			"hexValue": "28"
+		},
+		{
+			"binaryAnswer": "00101001",
+			"hexValue": "29"
+		},
+		{
+			"binaryAnswer": "00101010",
+			"hexValue": "2A"
+		},
+		{
+			"binaryAnswer": "00101011",
+			"hexValue": "2B"
+		},
+		{
+			"binaryAnswer": "00101100",
+			"hexValue": "2C"
+		},
+		{
+			"binaryAnswer": "00101101",
+			"hexValue": "2D"
+		},
+		{
+			"binaryAnswer": "00101110",
+			"hexValue": "2E"
+		},
+		{
+			"binaryAnswer": "00101111",
+			"hexValue": "2F"
+		},
+		{
+			"binaryAnswer": "00110000",
+			"hexValue": "30"
+		},
+		{
+			"binaryAnswer": "00110001",
+			"hexValue": "31"
+		},
+		{
+			"binaryAnswer": "00110010",
+			"hexValue": "32"
+		},
+		{
+			"binaryAnswer": "00110011",
+			"hexValue": "33"
+		},
+		{
+			"binaryAnswer": "00110100",
+			"hexValue": "34"
+		},
+		{
+			"binaryAnswer": "00110101",
+			"hexValue": "35"
+		},
+		{
+			"binaryAnswer": "00110110",
+			"hexValue": "36"
+		},
+		{
+			"binaryAnswer": "00110111",
+			"hexValue": "37"
+		},
+		{
+			"binaryAnswer": "00111000",
+			"hexValue": "38"
+		},
+		{
+			"binaryAnswer": "00111001",
+			"hexValue": "39"
+		},
+		{
+			"binaryAnswer": "00111010",
+			"hexValue": "3A"
+		},
+		{
+			"binaryAnswer": "00111011",
+			"hexValue": "3B"
+		},
+		{
+			"binaryAnswer": "00111100",
+			"hexValue": "3C"
+		},
+		{
+			"binaryAnswer": "00111101",
+			"hexValue": "3D"
+		},
+		{
+			"binaryAnswer": "00111110",
+			"hexValue": "3E"
+		},
+		{
+			"binaryAnswer": "00111111",
+			"hexValue": "3F"
+		},
+		{
+			"binaryAnswer": "01000000",
+			"hexValue": "40"
+		},
+		{
+			"binaryAnswer": "01000001",
+			"hexValue": "41"
+		},
+		{
+			"binaryAnswer": "01000010",
+			"hexValue": "42"
+		},
+		{
+			"binaryAnswer": "01000011",
+			"hexValue": "43"
+		},
+		{
+			"binaryAnswer": "01000100",
+			"hexValue": "44"
+		},
+		{
+			"binaryAnswer": "01000101",
+			"hexValue": "45"
+		},
+		{
+			"binaryAnswer": "01000110",
+			"hexValue": "46"
+		},
+		{
+			"binaryAnswer": "01000111",
+			"hexValue": "47"
+		},
+		{
+			"binaryAnswer": "01001000",
+			"hexValue": "48"
+		},
+		{
+			"binaryAnswer": "01001001",
+			"hexValue": "49"
+		},
+		{
+			"binaryAnswer": "01001010",
+			"hexValue": "4A"
+		},
+		{
+			"binaryAnswer": "01001011",
+			"hexValue": "4B"
+		},
+		{
+			"binaryAnswer": "01001100",
+			"hexValue": "4C"
+		},
+		{
+			"binaryAnswer": "01001101",
+			"hexValue": "4D"
+		},
+		{
+			"binaryAnswer": "01001110",
+			"hexValue": "4E"
+		},
+		{
+			"binaryAnswer": "01001111",
+			"hexValue": "4F"
+		},
+		{
+			"binaryAnswer": "01010000",
+			"hexValue": "50"
+		},
+		{
+			"binaryAnswer": "01010001",
+			"hexValue": "51"
+		},
+		{
+			"binaryAnswer": "01010010",
+			"hexValue": "52"
+		},
+		{
+			"binaryAnswer": "01010011",
+			"hexValue": "53"
+		},
+		{
+			"binaryAnswer": "01010100",
+			"hexValue": "54"
+		},
+		{
+			"binaryAnswer": "01010101",
+			"hexValue": "55"
+		},
+		{
+			"binaryAnswer": "01010110",
+			"hexValue": "56"
+		},
+		{
+			"binaryAnswer": "01010111",
+			"hexValue": "57"
+		},
+		{
+			"binaryAnswer": "01011000",
+			"hexValue": "58"
+		},
+		{
+			"binaryAnswer": "01011001",
+			"hexValue": "59"
+		},
+		{
+			"binaryAnswer": "01011010",
+			"hexValue": "5A"
+		},
+		{
+			"binaryAnswer": "01011011",
+			"hexValue": "5B"
+		},
+		{
+			"binaryAnswer": "01011100",
+			"hexValue": "5C"
+		},
+		{
+			"binaryAnswer": "01011101",
+			"hexValue": "5D"
+		},
+		{
+			"binaryAnswer": "01011110",
+			"hexValue": "5E"
+		},
+		{
+			"binaryAnswer": "01011111",
+			"hexValue": "5F"
+		},
+		{
+			"binaryAnswer": "01100000",
+			"hexValue": "60"
+		},
+		{
+			"binaryAnswer": "01100001",
+			"hexValue": "61"
+		},
+		{
+			"binaryAnswer": "01100010",
+			"hexValue": "62"
+		},
+		{
+			"binaryAnswer": "01100011",
+			"hexValue": "63"
+		},
+		{
+			"binaryAnswer": "01100100",
+			"hexValue": "64"
+		},
+		{
+			"binaryAnswer": "01100101",
+			"hexValue": "65"
+		},
+		{
+			"binaryAnswer": "01100110",
+			"hexValue": "66"
+		},
+		{
+			"binaryAnswer": "01100111",
+			"hexValue": "67"
+		},
+		{
+			"binaryAnswer": "01101000",
+			"hexValue": "68"
+		},
+		{
+			"binaryAnswer": "01101001",
+			"hexValue": "69"
+		},
+		{
+			"binaryAnswer": "01101010",
+			"hexValue": "6A"
+		},
+		{
+			"binaryAnswer": "01101011",
+			"hexValue": "6B"
+		},
+		{
+			"binaryAnswer": "01101100",
+			"hexValue": "6C"
+		},
+		{
+			"binaryAnswer": "01101101",
+			"hexValue": "6D"
+		},
+		{
+			"binaryAnswer": "01101110",
+			"hexValue": "6E"
+		},
+		{
+			"binaryAnswer": "01101111",
+			"hexValue": "6F"
+		},
+		{
+			"binaryAnswer": "01110000",
+			"hexValue": "70"
+		},
+		{
+			"binaryAnswer": "01110001",
+			"hexValue": "71"
+		},
+		{
+			"binaryAnswer": "01110010",
+			"hexValue": "72"
+		},
+		{
+			"binaryAnswer": "01110011",
+			"hexValue": "73"
+		},
+		{
+			"binaryAnswer": "01110100",
+			"hexValue": "74"
+		},
+		{
+			"binaryAnswer": "01110101",
+			"hexValue": "75"
+		},
+		{
+			"binaryAnswer": "01110110",
+			"hexValue": "76"
+		},
+		{
+			"binaryAnswer": "01110111",
+			"hexValue": "77"
+		},
+		{
+			"binaryAnswer": "01111000",
+			"hexValue": "78"
+		},
+		{
+			"binaryAnswer": "01111001",
+			"hexValue": "79"
+		},
+		{
+			"binaryAnswer": "01111010",
+			"hexValue": "7A"
+		},
+		{
+			"binaryAnswer": "0111101",
+			"hexValue": "7B"
+		},
+		{
+			"binaryAnswer": "01111100",
+			"hexValue": "7C"
+		},
+		{
+			"binaryAnswer": "01111101",
+			"hexValue": "7D"
+		},
+		{
+			"binaryAnswer": "01111110",
+			"hexValue": "7E"
+		},
+		{
+			"binaryAnswer": "01111111",
+			"hexValue": "7F"
+		},
+		{
+			"binaryAnswer": "10000000",
+			"hexValue": "80"
+		},
+		{
+			"binaryAnswer": "10000001",
+			"hexValue": "81"
+		},
+		{
+			"binaryAnswer": "10000010",
+			"hexValue": "82"
+		},
+		{
+			"binaryAnswer": "10000011",
+			"hexValue": "83"
+		},
+		{
+			"binaryAnswer": "10000100",
+			"hexValue": "84"
+		},
+		{
+			"binaryAnswer": "10000101",
+			"hexValue": "85"
+		},
+		{
+			"binaryAnswer": "10000110",
+			"hexValue": "86"
+		},
+		{
+			"binaryAnswer": "10000111",
+			"hexValue": "87"
+		},
+		{
+			"binaryAnswer": "10001000",
+			"hexValue": "88"
+		},
+		{
+			"binaryAnswer": "10001001",
+			"hexValue": "89"
+		},
+		{
+			"binaryAnswer": "10001010",
+			"hexValue": "8A"
+		},
+		{
+			"binaryAnswer": "10001011",
+			"hexValue": "8B"
+		},
+		{
+			"binaryAnswer": "10001100",
+			"hexValue": "8C"
+		},
+		{
+			"binaryAnswer": "10001101",
+			"hexValue": "8D"
+		},
+		{
+			"binaryAnswer": "10001110",
+			"hexValue": "8E"
+		},
+		{
+			"binaryAnswer": "10001111",
+			"hexValue": "8F"
+		},
+		{
+			"binaryAnswer": "10010000",
+			"hexValue": "90"
+		},
+		{
+			"binaryAnswer": "10010001",
+			"hexValue": "91"
+		},
+		{
+			"binaryAnswer": "10000010",
+			"hexValue": "92"
+		},
+		{
+			"binaryAnswer": "10000011",
+			"hexValue": "93"
+		},
+		{
+			"binaryAnswer": "10000100",
+			"hexValue": "94"
+		},
+		{
+			"binaryAnswer": "10010101",
+			"hexValue": "95"
+		},
+		{
+			"binaryAnswer": "10010110",
+			"hexValue": "96"
+		},
+		{
+			"binaryAnswer": "10010111",
+			"hexValue": "97"
+		},
+		{
+			"binaryAnswer": "10011000",
+			"hexValue": "98"
+		},
+		{
+			"binaryAnswer": "10011001",
+			"hexValue": "99"
+		},
+		{
+			"binaryAnswer": "10011010",
+			"hexValue": "9A"
+		},
+		{
+			"binaryAnswer": "10011011",
+			"hexValue": "9B"
+		},
+		{
+			"binaryAnswer": "10011100",
+			"hexValue": "9C"
+		},
+		{
+			"binaryAnswer": "10011101",
+			"hexValue": "9D"
+		},
+		{
+			"binaryAnswer": "10011110",
+			"hexValue": "9E"
+		},
+		{
+			"binaryAnswer": "10011111",
+			"hexValue": "9F"
+		},
+		{
+			"binaryAnswer": "10100000",
+			"hexValue": "A0"
+		},
+		{
+			"binaryAnswer": "10100001",
+			"hexValue": "A1"
+		},
+		{
+			"binaryAnswer": "10100010",
+			"hexValue": "A2"
+		},
+		{
+			"binaryAnswer": "10100011",
+			"hexValue": "A3"
+		},
+		{
+			"binaryAnswer": "10100100",
+			"hexValue": "A4"
+		},
+		{
+			"binaryAnswer": "10100101",
+			"hexValue": "A5"
+		},
+		{
+			"binaryAnswer": "10100110",
+			"hexValue": "A6"
+		},
+		{
+			"binaryAnswer": "10100111",
+			"hexValue": "A7"
+		},
+		{
+			"binaryAnswer": "10101000",
+			"hexValue": "A8"
+		},
+		{
+			"binaryAnswer": "10101001",
+			"hexValue": "A9"
+		},
+		{
+			"binaryAnswer": "10101010",
+			"hexValue": "AA"
+		},
+		{
+			"binaryAnswer": "10101011",
+			"hexValue": "AB"
+		},
+		{
+			"binaryAnswer": "10101100",
+			"hexValue": "AC"
+		},
+		{
+			"binaryAnswer": "10101101",
+			"hexValue": "AD"
+		},
+		{
+			"binaryAnswer": "10101110",
+			"hexValue": "AE"
+		},
+		{
+			"binaryAnswer": "10101111",
+			"hexValue": "AF"
+		},
+		{
+			"binaryAnswer": "10110000",
+			"hexValue": "B0"
+		},
+		{
+			"binaryAnswer": "10110001",
+			"hexValue": "B1"
+		},
+		{
+			"binaryAnswer": "10110010",
+			"hexValue": "B2"
+		},
+		{
+			"binaryAnswer": "10110011",
+			"hexValue": "B3"
+		},
+		{
+			"binaryAnswer": "10110100",
+			"hexValue": "B4"
+		},
+		{
+			"binaryAnswer": "10110101",
+			"hexValue": "B5"
+		},
+		{
+			"binaryAnswer": "10110110",
+			"hexValue": "B6"
+		},
+		{
+			"binaryAnswer": "10110111",
+			"hexValue": "B7"
+		},
+		{
+			"binaryAnswer": "10111000",
+			"hexValue": "B8"
+		},
+		{
+			"binaryAnswer": "10111001",
+			"hexValue": "B9"
+		},
+		{
+			"binaryAnswer": "10111010",
+			"hexValue": "BA"
+		},
+		{
+			"binaryAnswer": "10111011",
+			"hexValue": "BB"
+		},
+		{
+			"binaryAnswer": "10111100",
+			"hexValue": "BC"
+		},
+		{
+			"binaryAnswer": "10111101",
+			"hexValue": "BD"
+		},
+		{
+			"binaryAnswer": "10111110",
+			"hexValue": "BE"
+		},
+		{
+			"binaryAnswer": "10111111",
+			"hexValue": "BF"
+		},
+		{
+			"binaryAnswer": "11000000",
+			"hexValue": "C0"
+		},
+		{
+			"binaryAnswer": "11000001",
+			"hexValue": "C1"
+		},
+		{
+			"binaryAnswer": "11000010",
+			"hexValue": "C2"
+		},
+		{
+			"binaryAnswer": "11000011",
+			"hexValue": "C3"
+		},
+		{
+			"binaryAnswer": "11000100",
+			"hexValue": "C4"
+		},
+		{
+			"binaryAnswer": "11000101",
+			"hexValue": "C5"
+		},
+		{
+			"binaryAnswer": "11000110",
+			"hexValue": "C6"
+		},
+		{
+			"binaryAnswer": "11000111",
+			"hexValue": "C7"
+		},
+		{
+			"binaryAnswer": "11001000",
+			"hexValue": "C8"
+		},
+		{
+			"binaryAnswer": "11001001",
+			"hexValue": "C9"
+		},
+		{
+			"binaryAnswer": "11001010",
+			"hexValue": "CA"
+		},
+		{
+			"binaryAnswer": "11001011",
+			"hexValue": "CB"
+		},
+		{
+			"binaryAnswer": "11001100",
+			"hexValue": "CC"
+		},
+		{
+			"binaryAnswer": "11001101",
+			"hexValue": "CD"
+		},
+		{
+			"binaryAnswer": "11001110",
+			"hexValue": "CE"
+		},
+		{
+			"binaryAnswer": "11001111",
+			"hexValue": "CF"
+		},
+		{
+			"binaryAnswer": "11010000",
+			"hexValue": "D0"
+		},
+		{
+			"binaryAnswer": "11010001",
+			"hexValue": "D1"
+		},
+		{
+			"binaryAnswer": "11010010",
+			"hexValue": "D2"
+		},
+		{
+			"binaryAnswer": "11010011",
+			"hexValue": "D3"
+		},
+		{
+			"binaryAnswer": "11010100",
+			"hexValue": "D4"
+		},
+		{
+			"binaryAnswer": "11010101",
+			"hexValue": "D5"
+		},
+		{
+			"binaryAnswer": "11010110",
+			"hexValue": "D6"
+		},
+		{
+			"binaryAnswer": "11010111",
+			"hexValue": "D7"
+		},
+		{
+			"binaryAnswer": "11011000",
+			"hexValue": "D8"
+		},
+		{
+			"binaryAnswer": "11011001",
+			"hexValue": "D9"
+		},
+		{
+			"binaryAnswer": "11011010",
+			"hexValue": "DA"
+		},
+		{
+			"binaryAnswer": "11011011",
+			"hexValue": "DB"
+		},
+		{
+			"binaryAnswer": "11011100",
+			"hexValue": "DC"
+		},
+		{
+			"binaryAnswer": "11011101",
+			"hexValue": "DD"
+		},
+		{
+			"binaryAnswer": "11011110",
+			"hexValue": "DE"
+		},
+		{
+			"binaryAnswer": "11011111",
+			"hexValue": "DF"
+		},
+		{
+			"binaryAnswer": "11100000",
+			"hexValue": "E0"
+		},
+		{
+			"binaryAnswer": "11100001",
+			"hexValue": "E1"
+		},
+		{
+			"binaryAnswer": "11100010",
+			"hexValue": "E2"
+		},
+		{
+			"binaryAnswer": "11100011",
+			"hexValue": "E3"
+		},
+		{
+			"binaryAnswer": "11100100",
+			"hexValue": "E4"
+		},
+		{
+			"binaryAnswer": "11100101",
+			"hexValue": "E5"
+		},
+		{
+			"binaryAnswer": "11100110",
+			"hexValue": "E6"
+		},
+		{
+			"binaryAnswer": "11100111",
+			"hexValue": "E7"
+		},
+		{
+			"binaryAnswer": "11101000",
+			"hexValue": "E8"
+		},
+		{
+			"binaryAnswer": "11101001",
+			"hexValue": "E9"
+		},
+		{
+			"binaryAnswer": "11101010",
+			"hexValue": "EA"
+		},
+		{
+			"binaryAnswer": "11101011",
+			"hexValue": "EB"
+		},
+		{
+			"binaryAnswer": "11101100",
+			"hexValue": "EC"
+		},
+		{
+			"binaryAnswer": "11101101",
+			"hexValue": "ED"
+		},
+		{
+			"binaryAnswer": "11101110",
+			"hexValue": "EE"
+		},
+		{
+			"binaryAnswer": "11101111",
+			"hexValue": "EF"
+		},
+		{
+			"binaryAnswer": "11110000",
+			"hexValue": "F0"
+		},
+		{
+			"binaryAnswer": "11110001",
+			"hexValue": "F1"
+		},
+		{
+			"binaryAnswer": "11110010",
+			"hexValue": "F2"
+		},
+		{
+			"binaryAnswer": "11110011",
+			"hexValue": "F3"
+		},
+		{
+			"binaryAnswer": "11110100",
+			"hexValue": "F4"
+		},
+		{
+			"binaryAnswer": "11110101",
+			"hexValue": "F5"
+		},
+		{
+			"binaryAnswer": "11110110",
+			"hexValue": "F6"
+		},
+		{
+			"binaryAnswer": "11110111",
+			"hexValue": "F7"
+		},
+		{
+			"binaryAnswer": "11111000",
+			"hexValue": "F8"
+		},
+		{
+			"binaryAnswer": "11111001",
+			"hexValue": "F9"
+		},
+		{
+			"binaryAnswer": "11111010",
+			"hexValue": "FA"
+		},
+		{
+			"binaryAnswer": "11111011",
+			"hexValue": "FB"
+		},
+		{
+			"binaryAnswer": "11111100",
+			"hexValue": "FC"
+		},
+		{
+			"binaryAnswer": "11111101",
+			"hexValue": "FD"
+		},
+		{
+			"binaryAnswer": "11111110",
+			"hexValue": "FE"
+		},
+		{
+			"binaryAnswer": "11111111",
+			"hexValue": "FF"
+		}
+
+
+
+	]
+}
