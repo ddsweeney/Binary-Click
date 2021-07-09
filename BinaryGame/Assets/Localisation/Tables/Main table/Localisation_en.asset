@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localisation_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 95b997574dac6864ab1d4048cdfb3e7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 199319461888
+    m_Localized: Binary Click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839612195512320
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839717803892736
+    m_Localized: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839783398612992
+    m_Localized: Tutorials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840091415715840
+    m_Localized: Click flag to choose language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840794670473216
+    m_Localized: Time Trial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840753939587072
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840935771054080
+    m_Localized: Endless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841047754776576
+    m_Localized: Which mode would you like to play?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841216336437248
+    m_Localized: 'Position '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841401443655680
+    m_Localized: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841535913041920
+    m_Localized: Binary To Decimal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841896061149184
+    m_Localized: Hexadecimal To Decimal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841889580949504
+    m_Localized: Decimal To Hexadecimal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841765601517568
+    m_Localized: Hexadecimal To Binary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841694122188800
+    m_Localized: Binary To Hexadecimal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841639617208320
+    m_Localized: Decimal To Binary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842120003428352
+    m_Localized: Choose a Set of Questions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840392675794944
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842123086241792
+    m_Localized: Main Game Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842123916713984
+    m_Localized: Binary Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842124692660224
+    m_Localized: Hexadecimal Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843232093773824
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843234706825216
+    m_Localized: Tutorial Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843236057391104
+    m_Localized: Reload Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843590018899968
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843591721787392
+    m_Localized: 'Score '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843595236614144
+    m_Localized: 'Health: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843846970351616
+    m_Localized: Power Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843853077258240
+    m_Localized: 'Correct '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843854473961472
+    m_Localized: Wrong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844108522954752
+    m_Localized: Answers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844139703410688
+    m_Localized: 'Freeze: Stops time for 3 seconds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844142362599424
+    m_Localized: 'Multiplier: Score X 2 for 10 seconds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844144468140032
+    m_Localized: 'Bomb: Destroys half of incorrect answers'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844396206071808
+    m_Localized: 'Health Up: Health increases by 1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844399171444736
+    m_Localized: 'Shield: Protects against one incorrect answer'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844401495089152
+    m_Localized: 'Health Down: Health decreases by 1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844403961339904
+    m_Localized: 'Game Over: Game ends'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844981965791232
+    m_Localized: Current Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844984071331840
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8853715429466112
+    m_Localized: 'Time Trial
+
+
+      Answer the questions as quickly as possible!
+
+
+      Once
+      your score equals 10, you win!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8853663491399680
+    m_Localized: 'Endless Mode
+
+
+      Survive as long as you can by answering the
+      questions before the timer runs out!
+
+
+      Timer gets reset every time your
+      score goes up by 10. If your health or the timer reaches 0, then is game over!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845686222987264
+    m_Localized: 'Best time: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845690668949504
+    m_Localized: Please enter your name here...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845692170510336
+    m_Localized: Play again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846247785766912
+    m_Localized: Submit your Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846426387619840
+    m_Localized: Game Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846428547686400
+    m_Localized: Back To Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8848198153904128
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8879467168374784
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8880384655597568
+    m_Localized: Well Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8881518061395968
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8889888550002688
+    m_Localized: Select a Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9035616198959104
+    m_Localized: ' Score: {displayScore}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9039515983126528
+    m_Localized: 'Best Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9041480532205568
+    m_Localized: 'Time:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a09dcf776c1f00

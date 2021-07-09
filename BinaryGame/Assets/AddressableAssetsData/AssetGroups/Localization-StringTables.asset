@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-StringTables
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-StringTables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9a76e6c1124654d4ca90efdec3d0ca76
+  m_SerializeEntries:
+  - m_GUID: d91955aa64b18aa4e9bebb5e594b6828
+    m_Address: Localisation_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5117174cf3905e846ad1458b9717b1e4
+    m_Address: Localisation_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab8799d705f1ac346a15ad9e9fd3f57c
+    m_Address: Languages_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e7bbbc5a985e71746a17c7c2aa776307
+    m_Address: Languages_cy
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cy
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ac110dde286bf4f40abaf3e4b082718a
+    m_Address: Localisation_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 90e3f00fbfafb7d4db92c1dc74550039
+    m_Address: Localisation_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 679ec0dba16265448918c5813def4581
+    m_Address: Languages_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f08ef2b550333440997a6d0dbcaabf2
+    m_Address: Languages_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2c1d3c1de9f6ea74fb9393f4daab5f83
+    m_Address: Languages_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34368ec65055a7d438dbd8cfd605f00d
+    m_Address: Languages_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 01dc3fe0a28d65348939e1a5b695a98f
+    m_Address: Localisation_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 60c0a64214bb57747bc1c5a2eb2d6bd9
+    m_Address: Localisation_cy
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cy
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 3ceeea43e8fa6494f97022cd0470477a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8db489a4bf785184d9bfc00f8fde1d84, type: 2}
+    - {fileID: 11400000, guid: 602b6f9699a910e4ab1942973f94643c, type: 2}

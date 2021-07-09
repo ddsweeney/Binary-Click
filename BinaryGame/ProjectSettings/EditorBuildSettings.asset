@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameModeSelectScene.unity
+    guid: e8c4966d6b57da042a214e90192235b5
+  - enabled: 1
+    path: Assets/Scenes/QuestionSelectScene.unity
+    guid: d980e33cc585d8d46ac3e973469c20e1
+  - enabled: 1
+    path: Assets/Scenes/MainGameScene.unity
+    guid: ccdb6811f9576ff4ba91ef658b206ac2
+  - enabled: 1
+    path: Assets/Scenes/TutorialSelectScene.unity
+    guid: 0dd9ac4fde40be5478ab4149bf67bac4
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoardScene.unity
+    guid: d00faf1d8c8f6ca4e8326f71c15bb312
+  - enabled: 1
+    path: Assets/Scenes/BinaryTutorialScene.unity
+    guid: 663da794445cd3a428077a117a1dc016
+  - enabled: 1
+    path: Assets/Scenes/HexadecimalTutorialScene.unity
+    guid: 094e993714f94364c8354a3870cb04ad
+  - enabled: 1
+    path: Assets/Scenes/MainGameTutorialScene.unity
+    guid: 48d17d3343c333549af4928f30412167
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 824ee3990fac80d40ae7d511ae8c7644,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: edf48e961fd27fb4597cd5e44cd10403,
+      type: 2}

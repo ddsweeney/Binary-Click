@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localisation Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localisation
+  m_TableCollectionNameGuidString: 95b997574dac6864ab1d4048cdfb3e7a
+  m_Entries:
+  - m_Id: 199319461888
+    m_Key: Game_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839612195512320
+    m_Key: Leaderboard_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839717803892736
+    m_Key: Languages_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839783398612992
+    m_Key: Tutorials_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840091415715840
+    m_Key: Select_Flag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840392675794944
+    m_Key: Close_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840753939587072
+    m_Key: Back_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840794670473216
+    m_Key: Time_Trial_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840935771054080
+    m_Key: Endless_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841047754776576
+    m_Key: Game_mode_Title_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841216336437248
+    m_Key: Position_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841401443655680
+    m_Key: Name_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841535913041920
+    m_Key: Binary_To_Decimal_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841639617208320
+    m_Key: Decimal_To_Binary_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841694122188800
+    m_Key: Binary_To_Hexadecimal_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841765601517568
+    m_Key: Hexadecimal_To_Binary_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841889580949504
+    m_Key: Decimal_To_Hexadecimal_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841896061149184
+    m_Key: Hexadecimal_To_Decimal_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842120003428352
+    m_Key: Questions_Select_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842123086241792
+    m_Key: Main_Game_Tutorial_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842123916713984
+    m_Key: Binary_Tutorial_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842124692660224
+    m_Key: Hexadecimal_Tutorial_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843232093773824
+    m_Key: Game_Over_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843234706825216
+    m_Key: Tutorial_Menu_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843236057391104
+    m_Key: Reload_Tutorial_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843590018899968
+    m_Key: Time_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843591721787392
+    m_Key: Score_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843595236614144
+    m_Key: Health_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843846970351616
+    m_Key: Power_Up_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843853077258240
+    m_Key: Correct_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843854473961472
+    m_Key: Wrong_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844108522954752
+    m_Key: Answers_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844139703410688
+    m_Key: Freeze_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844142362599424
+    m_Key: Multiplier_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844144468140032
+    m_Key: Bomb_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844396206071808
+    m_Key: Health_Up_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844399171444736
+    m_Key: Shield_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844401495089152
+    m_Key: Health_Down_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844403961339904
+    m_Key: Game_Over_Description_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844981965791232
+    m_Key: Current_Level_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844984071331840
+    m_Key: Menu_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845686222987264
+    m_Key: Best_Time_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845690668949504
+    m_Key: Name_Input_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845692170510336
+    m_Key: Play_again_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846247785766912
+    m_Key: Submit_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846426387619840
+    m_Key: Game_Paused_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846428547686400
+    m_Key: Back_To_Game_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8848198153904128
+    m_Key: Play_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8853663491399680
+    m_Key: EndlessDesc_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8853715429466112
+    m_Key: TimeTrialDesc_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8879467168374784
+    m_Key: Main_Menu_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8880384655597568
+    m_Key: Well_Done_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8881518061395968
+    m_Key: Start_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8889888550002688
+    m_Key: Select_Tutorial_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9035616198959104
+    m_Key: Current_Score_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9039515983126528
+    m_Key: Best_Score_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9041480532205568
+    m_Key: Time_End_ID
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1617542656126

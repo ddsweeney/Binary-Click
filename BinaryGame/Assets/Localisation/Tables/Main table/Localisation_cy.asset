@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localisation_cy
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cy
+  m_SharedData: {fileID: 11400000, guid: 95b997574dac6864ab1d4048cdfb3e7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 199319461888
+    m_Localized: 'Clic Deuaidd
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839612195512320
+    m_Localized: Bwrdd sgorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839717803892736
+    m_Localized: Leithoedd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8839783398612992
+    m_Localized: Tiwtorialau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840091415715840
+    m_Localized: Cliciwch baner i ddewis iaith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840392675794944
+    m_Localized: Clos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840753939587072
+    m_Localized: Cefn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840794670473216
+    m_Localized: Treial Amser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8840935771054080
+    m_Localized: Diddiwedd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841047754776576
+    m_Localized: Pa ddull hoffech chi ei chwarae?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841216336437248
+    m_Localized: Sefyllfa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841401443655680
+    m_Localized: Enw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841535913041920
+    m_Localized: Deuaidd I Degol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841639617208320
+    m_Localized: Degol I Deuaidd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841694122188800
+    m_Localized: Binary I Hecsadegol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841765601517568
+    m_Localized: Hecsadegol I deuaidd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841889580949504
+    m_Localized: 'Degol I Hecsadegol
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841896061149184
+    m_Localized: Hecsadegol I Degol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842120003428352
+    m_Localized: 'Dewiswch Set o Gwestiynau
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842123086241792
+    m_Localized: "Main G\xEAm Tiwtorial"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842124692660224
+    m_Localized: "Tiwtorial\r Hecsadegol\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8842123916713984
+    m_Localized: Tiwtorial Deuaidd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843232093773824
+    m_Localized: "G\xEAm drosodd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843234706825216
+    m_Localized: Dewislen tiwtorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843236057391104
+    m_Localized: Ail-lwytho Tiwtorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843590018899968
+    m_Localized: Amser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843591721787392
+    m_Localized: "Sg\xF4r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843595236614144
+    m_Localized: 'Iechyd: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843846970351616
+    m_Localized: "P\u0175er i Fyny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843853077258240
+    m_Localized: Cywir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843854473961472
+    m_Localized: Anghywir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844108522954752
+    m_Localized: Ateb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844139703410688
+    m_Localized: 'Rhewi: Stopio amser am 3 eiliad'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844142362599424
+    m_Localized: "Lluosydd: Sg\xF4r X 2 am 10 eiliad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844144468140032
+    m_Localized: 'Bom: Dinistrio hanner yr atebion anghywir'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844396206071808
+    m_Localized: 'Iechyd Up: Iechyd yn cynyddu gan 1
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844399171444736
+    m_Localized: 'Llong: Amddiffyn rhag ateb anghywir'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844401495089152
+    m_Localized: 'Iechyd i Lawr: Iechyd yn gostwng 1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844403961339904
+    m_Localized: "G\xEAm Dros: G\xEAm yn dod i ben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844981965791232
+    m_Localized: 'Lefel bresennol
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8853663491399680
+    m_Localized: "Modd Diddiwedd\n\noroesi cyn belled \xE2'ch bod yn gallu drwy ateb
+      y cwestiynau cyn i'r amserydd ddod i ben!Mae amserydd yn cael ei ailosod bob
+      tro y bydd eich sg\xF4r yn codi 10.Os yw eich iechyd neu'r amserydd yn cyrraedd
+      0, yna mae g\xEAm drosodd!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8853715429466112
+    m_Localized: "Treial Amser\n\nAtebwch y cwestiynau cyn gynted \xE2 phosibl!\n\nUnwaith
+      y bydd eich sg\xF4r yn cyfateb i 10, rydych chi'n ennill!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8848198153904128
+    m_Localized: Chwarae
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846428547686400
+    m_Localized: "Yn \xF4l i'r G\xEAm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846426387619840
+    m_Localized: "N\xF4l i'r G\xEAm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8846247785766912
+    m_Localized: "G\xEAm wedi'i Rhewi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845692170510336
+    m_Localized: "\rChwarae eto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845690668949504
+    m_Localized: Rhowch eich enw yma...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8845686222987264
+    m_Localized: 'Yr amser gorau:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8844984071331840
+    m_Localized: Dewislen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8879467168374784
+    m_Localized: Prif Ddewislen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8880384655597568
+    m_Localized: Da iawn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8881518061395968
+    m_Localized: Cychwyn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8889888550002688
+    m_Localized: 'Dewiswch Tiwtorial
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9035616198959104
+    m_Localized: " Sg\xF4r: {displayScore}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9039515983126528
+    m_Localized: "\rSg\xF4r gorau:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9041480532205568
+    m_Localized: 'Amser:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a09dcf776c1f00
